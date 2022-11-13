@@ -9,7 +9,7 @@
     <div class="col s12">
 <a class="waves-effect waves-light btn" href="{{ url('/about') }}"><i class="material-icons left">info</i>About</a>
 <a class="waves-effect waves-light btn" href="{{ url('/archive') }}"><i class="material-icons left">archive</i>Archive</a>
-<a class="waves-effect waves-light btn" target="_blank" href="https://myanimelist.net/"><i class="material-icons left">web</i>blog</a>
+<a class="waves-effect waves-light btn" target="_blank" href="https://ayrito.github.io/ayrp-cv/"><i class="material-icons left">web</i>blog</a>
 	</div>
 </div>
 
